@@ -1,6 +1,6 @@
 # EAT ME!
 
-A really simple 2D Katamari Damacy clone
+Really simple 2D Katamari Damacy clone built using PyGame.
 ## Installation
 Python necessary on device along with pygame library
 ```bash
